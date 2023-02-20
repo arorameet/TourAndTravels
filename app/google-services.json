@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "224765554423",
+    "firebase_url": "https://tourandtravelsregister-default-rtdb.firebaseio.com",
+    "project_id": "tourandtravelsregister",
+    "storage_bucket": "tourandtravelsregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224765554423:android:717d1e474020548bf56df2",
+        "android_client_info": {
+          "package_name": "com.example.tourandtravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224765554423-8qldl9n61pmjgq91ijfphm06sp049l3s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourandtravels",
+            "certificate_hash": "c1eec7e4fa9b67ff5e9caee5d4b6782870cce7bb"
+          }
+        },
+        {
+          "client_id": "224765554423-jm1ac5eqqs6jg7kthrrj5depgtk5vmk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJI-x0v8d7NaVp5zaPu2MF5otOpLKxtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224765554423-jm1ac5eqqs6jg7kthrrj5depgtk5vmk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
